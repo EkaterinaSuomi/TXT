@@ -1,0 +1,5 @@
+"favorite_movie":"Good doctor",
+"favorite_serial":"Belle_and_Sebastian",
+"favorite_food":"meet",
+"favorite_time_of_the_year":"spring",
+"country":"Sri_Lanka"

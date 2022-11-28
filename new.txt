@@ -1,0 +1,5 @@
+"surname":"Dubovskaya",
+"name":"Ekaterina",
+"age": 35,
+"pets": 0,
+"salary": 3000
